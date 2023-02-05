@@ -2,7 +2,7 @@
 
 by Graham Pugh
 
-![](https://img.shields.io/github/v/release/grahampugh/erase-install)&nbsp;![](https://img.shields.io/github/downloads/grahampugh/erase-install/latest/total)&nbsp;![](https://img.shields.io/badge/macOS-10.12.4%2B-success)&nbsp;![](https://img.shields.io/github/license/grahampugh/erase-install)
+![](https://img.shields.io/github/v/release/grahampugh/erase-install)&nbsp;![](https://img.shields.io/github/downloads/grahampugh/erase-install/v27.3/total)&nbsp;![](https://img.shields.io/badge/macOS-10.12.4%2B-success)&nbsp;![](https://img.shields.io/github/license/grahampugh/erase-install)
 
 **Note:** The default (`main`) branch repo is the current latest release. There is often a beta version in development. Check the branches for the next release candidate, which will be labelled with the `-rc` suffix. For example, When version 27.2 was the current version, the branch `v28.0-rc` was the next version. **Pull requests will only be accepted on the current beta version.**
 
